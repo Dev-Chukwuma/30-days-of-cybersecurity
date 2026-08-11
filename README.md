@@ -1,0 +1,98 @@
+# 🛡️ 30 Days of Cybersecurity
+
+A 30-day challenge to learn, practice, build, and document my cybersecurity journey.
+
+The goal is simple: **learn every day, practice what I learn, and build proof of work.**
+
+---
+
+## 📊 Progress
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | 🌐 Networking Basics | ✅ Completed |
+| Day 02 | 🌐 How the Internet Works | ✅ Completed |
+| Day 03 | 🔌 Ports & Protocols | 🟡 In Progress |
+| Day 04 | 🐧 Linux Fundamentals | ⬜ |
+| Day 05 | 🪟 Windows Fundamentals | ⬜ |
+| Day 06 | 🛡️ Cybersecurity Fundamentals | ⬜ |
+| Day 07 | 🔥 Week 1 Mini Project | ⬜ |
+| Day 08 | 👤 Linux Users & Permissions | ⬜ |
+| Day 09 | ⚙️ Processes & Services | ⬜ |
+| Day 10 | 📋 Linux Logs | ⬜ |
+| Day 11 | 💻 Bash Scripting | ⬜ |
+| Day 12 | 🐍 Python for Cybersecurity | ⬜ |
+| Day 13 | 🔧 Python Security Tool | ⬜ |
+| Day 14 | 🔥 Week 2 Project | ⬜ |
+| Day 15 | 🔐 Authentication & Password Security | ⬜ |
+| Day 16 | 🔑 Cryptography Basics | ⬜ |
+| Day 17 | ⚔️ Common Attack Techniques | ⬜ |
+| Day 18 | 📋 Log Analysis | ⬜ |
+| Day 19 | 🦈 Wireshark | ⬜ |
+| Day 20 | 🔎 Network Traffic Investigation | ⬜ |
+| Day 21 | 🔥 Wireshark Investigation | ⬜ |
+| Day 22 | 🏢 SOC Fundamentals | ⬜ |
+| Day 23 | 📊 SIEM Fundamentals | ⬜ |
+| Day 24 | 🧪 SIEM Lab | ⬜ |
+| Day 25 | 🚨 Incident Response | ⬜ |
+| Day 26 | 🧠 Threat Intelligence | ⬜ |
+| Day 27 | 🎯 MITRE ATT&CK | ⬜ |
+| Day 28 | 🔥 SOC Investigation | ⬜ |
+| Day 29 | 💼 Cybersecurity Portfolio | ⬜ |
+| Day 30 | 🏆 Final Project | ⬜ |
+
+---
+
+## 📚 What I'm Learning
+
+### Networking
+- IPv4 & IPv6
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Ports & protocols
+- Network routing
+
+### Systems
+- Linux
+- Windows
+- Processes & services
+- System logs
+- Permissions
+
+### Security
+- Cybersecurity fundamentals
+- Authentication
+- Cryptography
+- Common attacks
+- Threat intelligence
+- Incident response
+
+### Blue Team / SOC
+- Log analysis
+- Wireshark
+- SIEM
+- SOC investigations
+- MITRE ATT&CK
+- Detection & response
+
+### Programming & Automation
+- Python
+- Bash
+- Security automation
+
+---
+
+## 📂 Daily Documentation
+
+Each day contains my notes, practical exercises, screenshots, and projects.
+
+```text
+30-days-of-cybersecurity/
+│
+├── Day-01-Networking/
+├── Day-02-Internet/
+├── Day-03-Ports/
+├── Day-04-Linux/
+├── ...
+└── Day-30-Final-Project/

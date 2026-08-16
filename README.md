@@ -16,7 +16,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 04 | 🐧 Linux Fundamentals | ✅️ Completed |
 | Day 05 | 🪟 Windows Fundamentals | ✅️ Completed |
 | Day 06 | 🛡️ Cybersecurity Fundamentals | ✅️ Completed |
-| Day 07 | 🔥 Week 1 Mini Project | ⬜ |
+| Day 07 | 🔥 Week 1 Mini Project | ✅️ Completed |
 | Day 08 | 👤 Linux Users & Permissions | ⬜ |
 | Day 09 | ⚙️ Processes & Services | ⬜ |
 | Day 10 | 📋 Linux Logs | ⬜ |

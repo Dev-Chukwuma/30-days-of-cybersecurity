@@ -18,7 +18,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 06 | 🛡️ Cybersecurity Fundamentals | ✅️ Completed |
 | Day 07 | 🔥 Week 1 Mini Project | ✅️ Completed |
 | Day 08 | 👤 Linux Users & Permissions | ✅️ completed|
-| Day 09 | ⚙️ Processes & Services | 🟨 In progress |
+| Day 09 | ⚙️ Processes & Services | ✅️ Completed 
 | Day 10 | 📋 Linux Logs | ⬜ |
 | Day 11 | 💻 Bash Scripting | ⬜ |
 | Day 12 | 🐍 Python for Cybersecurity | ⬜ |

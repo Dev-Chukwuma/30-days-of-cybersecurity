@@ -19,7 +19,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 07 | 🔥 Week 1 Mini Project | ✅️ Completed |
 | Day 08 | 👤 Linux Users & Permissions | ✅️ completed|
 | Day 09 | ⚙️ Processes & Services | ✅️ Completed 
-| Day 10 | 📋 Linux Logs | 🟨 In Progress |
+| Day 10 | 📋 Linux Logs | ✅️ Completed 
 | Day 11 | 💻 Bash Scripting | ⬜ |
 | Day 12 | 🐍 Python for Cybersecurity | ⬜ |
 | Day 13 | 🔧 Python Security Tool | ⬜ |

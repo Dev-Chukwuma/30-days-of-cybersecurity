@@ -21,7 +21,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 09 | ⚙️ Processes & Services | ✅️ Completed 
 | Day 10 | 📋 Linux Logs | ✅️ Completed 
 | Day 11 | 💻 Bash Scripting | ✅️ Completed |
-| Day 12 | 🐍 Python for Cybersecurity | ⬜ |
+| Day 12 | 🐍 Python for Cybersecurity | 🟨 In Progress |
 | Day 13 | 🔧 Python Security Tool | ⬜ |
 | Day 14 | 🔥 Week 2 Project | ⬜ |
 | Day 15 | 🔐 Authentication & Password Security | ⬜ |

@@ -22,7 +22,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 10 | 📋 Linux Logs | ✅️ Completed 
 | Day 11 | 💻 Bash Scripting | ✅️ Completed |
 | Day 12 | 🐍 Python for Cybersecurity | ✅️ Completed |
-| Day 13 | 🔧 Python Security Tool | 🟨 In Progress |
+| Day 13 | 🔧 Python Security Tool | ✅️ Completed |
 | Day 14 | 🔥 Week 2 Project | ⬜ |
 | Day 15 | 🔐 Authentication & Password Security | ⬜ |
 | Day 16 | 🔑 Cryptography Basics | ⬜ |

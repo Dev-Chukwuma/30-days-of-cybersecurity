@@ -24,7 +24,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 12 | 🐍 Python for Cybersecurity | ✅️ Completed |
 | Day 13 | 🔧 Python Security Tool | ✅️ Completed |
 | Day 14 | 🔥 Week 2 Project | ✅️ Completed |
-| Day 15 | 🔐 Authentication & Password Security |🟨 In progress  |
+| Day 15 | 🔐 Authentication & Password Security |✅️ Completed |
 | Day 16 | 🔑 Cryptography Basics | ⬜ |
 | Day 17 | ⚔️ Common Attack Techniques | ⬜ |
 | Day 18 | 📋 Log Analysis | ⬜ |

@@ -26,8 +26,8 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 14 | 🔥 Week 2 Project | ✅️ Completed |
 | Day 15 | 🔐 Authentication & Password Security |✅️ Completed |
 | Day 16 | 🔑 Cryptography Basics | ✅️ Completed 
-| Day 17 | ⚔️ Common Attack Techniques | ⬜ |
-| Day 18 | 📋 Log Analysis | ⬜ |
+| Day 17 | ⚔️ Common Attack Techniques | ✅️ Completed|
+| Day 18 | 📋 Log Analysis | 🟨 In Progress |
 | Day 19 | 🦈 Wireshark | ⬜ |
 | Day 20 | 🔎 Network Traffic Investigation | ⬜ |
 | Day 21 | 🔥 Wireshark Investigation | ⬜ |

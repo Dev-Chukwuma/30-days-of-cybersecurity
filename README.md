@@ -30,7 +30,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 18 | 📋 Log Analysis | ✅️ Completed |
 | Day 19 | 🦈 Wireshark | ✅️ Completed|
 | Day 20 | 🔎 Network Traffic Investigation | ✅️ Completed |
-| Day 21 | 🔥 Wireshark Investigation | ⬜ |
+| Day 21 | 🔥 Wireshark Investigation |✅️ Completed|
 | Day 22 | 🏢 SOC Fundamentals | ⬜ |
 | Day 23 | 📊 SIEM Fundamentals | ⬜ |
 | Day 24 | 🧪 SIEM Lab | ⬜ |

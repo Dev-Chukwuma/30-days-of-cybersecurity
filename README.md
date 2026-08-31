@@ -31,8 +31,8 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 19 | 🦈 Wireshark | ✅️ Completed|
 | Day 20 | 🔎 Network Traffic Investigation | ✅️ Completed |
 | Day 21 | 🔥 Wireshark Investigation |✅️ Completed|
-| Day 22 | 🏢 SOC Fundamentals | 🟨 In Progress |
-| Day 23 | 📊 SIEM Fundamentals | ⬜ |
+| Day 22 | 🏢 SOC Fundamentals | ✅️ Completed |
+| Day 23 | 📊 SIEM Fundamentals | 🟨 In Progress |
 | Day 24 | 🧪 SIEM Lab | ⬜ |
 | Day 25 | 🚨 Incident Response | ⬜ |
 | Day 26 | 🧠 Threat Intelligence | ⬜ |

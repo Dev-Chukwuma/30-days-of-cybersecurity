@@ -34,8 +34,8 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 22 | 🏢 SOC Fundamentals | ✅️ Completed |
 | Day 23 | 📊 SIEM Fundamentals | ✅️ Completed |
 | Day 24 | 🧪 SIEM Lab | ✅️ Completed |
-| Day 25 | 🚨 Incident Response | 🟨 In Progress |
-| Day 26 | 🧠 Threat Intelligence | ⬜ |
+| Day 25 | 🚨 Incident Response | ✅️ Completed|
+| Day 26 | 🧠 Threat Intelligence | 🟨 In Progress |
 | Day 27 | 🎯 MITRE ATT&CK | ⬜ |
 | Day 28 | 🔥 SOC Investigation | ⬜ |
 | Day 29 | 💼 Cybersecurity Portfolio | ⬜ |

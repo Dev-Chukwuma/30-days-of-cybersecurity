@@ -36,7 +36,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 24 | 🧪 SIEM Lab | ✅️ Completed |
 | Day 25 | 🚨 Incident Response | ✅️ Completed|
 | Day 26 | 🧠 Threat Intelligence | ✅️ Completed |
-| Day 27 | 🎯 MITRE ATT&CK | 🟨 In Progress |
+| Day 27 | 🎯 MITRE ATT&CK |✅️ Completed|
 | Day 28 | 🔥 SOC Investigation | ⬜ |
 | Day 29 | 💼 Cybersecurity Portfolio | ⬜ |
 | Day 30 | 🏆 Final Project | ⬜ |

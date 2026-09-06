@@ -8,16 +8,15 @@ different core skill.
 ---
 
 ## 🖥️ Operating Systems & Networking Foundations
-**[Days 1-10 — Networking, Linux & Windows Fundamentals](./Day-01-Networking%20Basics)**
+**[Days 1-10 — Networking, Linux & Windows Fundamentals](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-01-Networking)**
 
 **What I did:** Built up core systems and networking knowledge hands-on — how the internet 
 actually works, ports/protocols, Linux fundamentals (filesystem navigation, users/groups, 
 permissions via chmod/chown, SUID/SGID), Windows fundamentals, process and service management 
 (ps/top/kill/systemctl), and Linux logging (journalctl, since Kali has no rsyslog by default).
 
-**What I built:** A Week 1 mini project (`security_recon.bat`) applying early networking/OS 
-concepts into a working recon script, plus a documented command reference for Linux 
-administration tasks.
+**What I built:** A Week 1 mini project applying early networking/OS concepts into a working 
+recon script, plus a documented command reference for Linux administration tasks.
 
 **What it demonstrates:** The systems-level fluency that everything else in this portfolio 
 depends on — you can't investigate an attack, read a log, or secure a host without first 
@@ -26,7 +25,7 @@ understanding how the OS and network actually behave under the hood.
 ---
 
 ## 🔧 Python Port Scanner
-**[Day 13 — Python Security Tool](./Day-13-Python%20Security%20Tool)**
+**[Day 13 — Python Security Tool](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-13-Python%20Security%20tool)**
 
 **What I did:** Built a modular, socket-based TCP port scanner in Python from scratch — 
 extending a basic Day 12 script into a proper tool with functions, configurable port range 
@@ -41,7 +40,7 @@ scripting, but structuring code for reuse and handling bad input gracefully.
 ---
 
 ## 🔐 Password Cracking (Offensive Security)
-**[Day 15 — Authentication & Password Security](./Day-15-Authentication%20and%20password%20security)**
+**[Day 15 — Authentication & Password Security](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-15-Authentication%20and%20password%20security)**
 
 **What I did:** Cracked an MD5 hash using John the Ripper, working through the wordlist 
 attack chain (default wordlist → incremental mode → rockyou.txt) after early attempts failed. 
@@ -56,7 +55,7 @@ actually break weak credentials, not just the theory of "use strong passwords."
 ---
 
 ## 🦈 Network Traffic Investigation (Wireshark)
-**[Day 20-21 — Network Traffic & Wireshark Investigation](./Day-20-Network%20Traffic%20Investigation)**
+**[Day 20-21 — Network Traffic & Wireshark Investigation](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-20-Network%20Traffic%20Investigation)**
 
 **What I did:** Captured live network traffic and identified a plaintext password transmitted 
 over FTP — a real, visible example of why unencrypted protocols are a security risk. Followed 
@@ -71,7 +70,7 @@ and pull out a security-relevant finding, a core Tier 1/2 SOC analyst skill.
 ---
 
 ## 🧪 SIEM Lab (Splunk)
-**[Day 24 — SIEM Lab](./Day-24-SIEM%20Lab)**
+**[Day 24 — SIEM Lab](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-24-SIEM%20Lab)**
 
 **What I did:** Attempted a Wazuh install on Kali (hit repeated repo/dependency issues — 
 documented as troubleshooting rather than abandoning), then pivoted to Splunk Enterprise. 
@@ -86,7 +85,7 @@ pivot when a tool doesn't cooperate — a very real day-in-the-life SOC skill.
 ---
 
 ## 🧯 Incident Response Lifecycle
-**[Day 25 — Incident Response](./Day-25-Incident%20Response)**
+**[Day 25 — Incident Response](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-25-Incident%20Response)**
 
 **What I did:** Studied the 6-phase IR lifecycle in depth — Preparation, Detection & Analysis, 
 Containment, Eradication, Recovery, Lessons Learned — then applied all six phases to a real 
@@ -105,7 +104,7 @@ flags alerts and one who can own an incident end-to-end.
 ---
 
 ## 🎯 MITRE ATT&CK Mapping + SOC Investigation
-**[Day 27-28 — MITRE ATT&CK & SOC Investigation](./Day-27-MITRE%20ATT%26CK)**
+**[Day 27-28 — MITRE ATT&CK & SOC Investigation](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-27-MITRE%20ATT%26CK)**
 
 **What I did:** Mapped my own earlier work to official MITRE ATT&CK technique IDs — Day 15's 
 offline hash cracking → **T1110.002 (Password Cracking)**, Day 20's sniffed FTP credential → 

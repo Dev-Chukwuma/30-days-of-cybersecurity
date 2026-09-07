@@ -39,7 +39,7 @@ The goal is simple: **learn every day, practice what I learn, and build proof of
 | Day 27 | 🎯 MITRE ATT&CK |✅️ Completed|
 | Day 28 | 🔥 SOC Investigation | ✅️ Completed |
 | Day 29 | 💼 Cybersecurity Portfolio |✅️ Completed |
-| Day 30 | 🏆 Final Project | 🟨 In Progress |
+| Day 30 | 🏆 Final Project | ✅️ Completed |
 
 ---
 

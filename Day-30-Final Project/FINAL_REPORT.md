@@ -82,7 +82,7 @@ challenge's SIEM work.
 
 The alert is triaged and investigated following a structured SOC process.
 
-- **Evidence:** [Day 28 — SOC Investigation](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-27-MITRE%20ATT%26CK) 
+- **Evidence:** [Day 28 — SOC Investigation](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity/tree/main/Day-28-SOC%20Investigation) 
   — full investigation lifecycle applied: Triage → Gather Context → Correlate → Scope → 
   Classify → Escalate.
 - **Finding:** Classified as a **true positive**. The failed-login burst followed by a 
